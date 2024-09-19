@@ -1,6 +1,7 @@
 # resumo_do_lab-dio
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
+|# Resumo 01:
 A computação em nuvem é um recurso que facilita em agilidade e oferece um alto alcance, sendo que pode ser acessada em qualquer lugar por uma rede de internet. Existem diferentes tipos de rede Nuvem, as citadas na aula foram: Privada, Pública e Híbrida.
 Privada:
 - Eu me responsabilizo pelo que ocorre,
@@ -24,3 +25,25 @@ Os usuarios pagam pelos recursos que usam.
 - Melhor previsão de custo
 - Preços e recursos individuais
 - Cobrança em base no uso real.
+
+# Resumo 02:
+- SLA (Acordo de nivel de Serviço)
+  Dependendo da configuração que fizermos no Azure ela pode influenciar no valor de uso dele, os valores de consumo mais baixo são de 99% e vão subindo, 99,9;99,99; etc...
+  Quanto a maior a porcentagem a maior o consumo e maior disponibilidade do serviço. Quanto menor a porcentagem menor consumo porem menor disponibilidade.
+
+  Beneficios:
+  - Escalabilidade;
+  - Elasticidade;
+  - Confiabilidade;
+  - Previsibilidade;
+  - Segurança;
+  - Governaça;
+  - Gerenciabilidade;
+
+
+
+
+
+
+
+
