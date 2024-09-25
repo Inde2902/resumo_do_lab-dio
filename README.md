@@ -41,6 +41,9 @@ Os usuarios pagam pelos recursos que usam.
   - Gerenciabilidade;
 
 
+# Resumo Laboratorio
+- Mostrado como podemos configurar nossas maquinas virtuais e cada função delas. Dependendo da forma que formos usar pode aumentar nossos custos, deve-se saber exatamente o que deseja para o melhor desempenho.
+
 
 
 
